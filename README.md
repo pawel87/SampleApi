@@ -1,4 +1,4 @@
-# SampleApi
+# Sample Web API
 
 ***
 Overview:
