@@ -19,3 +19,9 @@ Prerequirements:
 ***
 Initial steps:
 - Run database migration (update-database command)
+
+***
+Planned improvements:
+- Validate commands using validation framework (eg. FluentValidator)
+- Add unit tests for Mediator command handlers
+- Exception handling (and usage inside handlers)
